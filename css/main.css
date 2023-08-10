@@ -3,10 +3,11 @@
 }
 /* navigation */
 
+
 .navbar{
     box-shadow: 2px 2px 5px #000;
     opacity: .9;
-    background: pink;
+    background: rgb(238, 194, 201)238, 194, 201);
 }
 
 .navbar .nav-item .nav-link{
